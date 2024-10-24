@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dripgallorini
+- 👀 I’m interested in tech innovation, business process automation, personal finance, and sports like skiing and soccer.
+- 🌱 I’m currently improving my Flutter skills and working on enhancing my management abilities.
+- 💞️ I’m looking to collaborate on sustainable fashion, mobile app development, and tech projects that push innovation.
+- 📫 How to reach us: info@dripitaly.it, Instagram @dripitaly.it, TikTok @driptok
